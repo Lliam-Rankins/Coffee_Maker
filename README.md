@@ -1,3 +1,9 @@
+# About
+This software development project was done in my sophmore year of undergrad, focusing on API calls, SQL data base interaction, and the frontend/backend workflow. This specific project utilized REST API, MySQL, and a signifigant amount of HTML, CSS, and JavaScript.
+
+The goal with this website was to provide a coffee ordering service that could manage client orders, shop inventory, as well as recipie control. This required implementation of role based logins, sql interactions to store recepies and updated invenotry, as well as a good user experience.
+
+
 # csc326-TP-203-3
 
 ![Iteration](/.github/badges/iteration_gen.svg)
